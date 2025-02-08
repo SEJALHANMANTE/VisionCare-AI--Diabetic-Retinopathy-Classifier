@@ -8,3 +8,8 @@
   <img src="Preprocessed Image/10_left_gray.jpeg" alt="Normal MRI" height="200">
   <img src="Preprocessed Image/10_left_clahe.jpeg" alt="CLAHE Preprocessed Image" height="200">
 </p>
+
+## Contributors
+<a href="https://github.com/SEJALHANMANTE/VisionCare-AI--Diabetic-Retinopathy-Classifier/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=SEJALHANMANTE/VisionCare-AI--Diabetic-Retinopathy-Classifier" />
+</a>
