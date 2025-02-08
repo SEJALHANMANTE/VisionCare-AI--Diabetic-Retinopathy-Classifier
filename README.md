@@ -3,6 +3,6 @@
 
 <p align="center">
   <img src="Preprocessed Image/10_left.jpeg" height="300">
-  <img src="Preprocessed Image/10_left_gray.jpeg" alt="Normal MRI" width="300" height="300">
-  <img src="Preprocessed Image/10_left_clahe.jpeg" alt="CLAHE Preprocessed Image" width="300" height="300">
+  <img src="Preprocessed Image/10_left_gray.jpeg" alt="Normal MRI" height="300">
+  <img src="Preprocessed Image/10_left_clahe.jpeg" alt="CLAHE Preprocessed Image" height="300">
 </p>
